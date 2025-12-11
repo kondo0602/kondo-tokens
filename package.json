@@ -1,0 +1,11 @@
+{
+  "name": "kondo-tokens",
+  "version": "1.0.0",
+  "description": "",
+  "exports": {
+    ".": "./src/index.css",
+    "./variables": "./src/variables.css",
+    "./keyframes": "./src/keyframes.css"
+  },
+  "private": true
+}
